@@ -16,4 +16,4 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 ### Project Repo Link
 
-[Project Repository](https://github.com/chrisbay/mental-healthcare-access
+[Project Repository](https://github.com/chrisbay/mental-healthcare-access)
